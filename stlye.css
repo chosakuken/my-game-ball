@@ -42,3 +42,7 @@ canvas{
 button{
   position: absolute;
 }
+
+span{
+  border: 1px solid #f00;
+}
